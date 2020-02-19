@@ -1,4 +1,10 @@
-# Marlin 3D Printer Firmware
+#  Anycubic Kossel Linear Plus - SKR 1.3 - Marlin 2.0
+
+- 2208_standalone for x,y,z
+- A4988 for e0
+- everything else is stock
+
+## Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
